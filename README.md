@@ -16,3 +16,6 @@ The Notebooks were adapted from the ones presented in the [Fast.ai](https://gith
 ## Commercial Services
 This folder contains the Notebook related to the experiments with various commercial available sentiment analysis APIs. 
 Take note that the API keys were removed. They can be obtained at no cost by registering with the various providers.
+
+## Data Preparation
+This folder contains the Notebook related to the initial data transformations and the creation of the datasets. 
