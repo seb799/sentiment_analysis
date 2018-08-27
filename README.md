@@ -1,3 +1,6 @@
+# Text Classification for Sentiment Analysis : A Comparison of Techniques and Services
+
+
 # Sentiment Analysis
 
 This repository contains the Jupyter Notebooks related to the experiments presented in my Master's essay.
